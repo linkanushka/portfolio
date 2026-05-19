@@ -6,9 +6,19 @@ Personal portfolio website showcasing my projects and skills, built with HTML, C
 
 ## Tech Stack
 
-- **HTML** - 45.2%
-- **CSS** - 51.1% 
-- **JavaScript** - 3.7%
+| Language   | Percentage |
+|-----------|------------|
+| CSS       | 51.1%      |
+| HTML      | 45.2%      |
+| JavaScript| 3.7%       |
+
+### Language Distribution
+
+```
+CSS        ████████████████████████████ 51.1%
+HTML       ██████████████████████████ 45.2%
+JavaScript ██ 3.7%
+```
 
 ## Features
 
